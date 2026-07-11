@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Kassandra! I'm from Quezon City and I am currently a BSCPE Student in the Philippines. My major that I am currently taking human-computer interaction</p>
+<p align="center">My name is Kassandra! I'm from Quezon City and I am currently a BSCPE Student in the Philippines. </p>
 
 ###
 
